@@ -1,7 +1,6 @@
 from selenium.webdriver.common.by import By
 from selenium import webdriver
 import re
-import pandas as pd
 import requests
 import os
 
